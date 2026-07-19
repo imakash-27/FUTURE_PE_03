@@ -1,7 +1,7 @@
 # Deliverable — SEO Blog & Content Cluster for Prime Relocations
 
 **Business:** Prime Relocations — premium packers & movers, Nellore, Andhra Pradesh
-**Author:** Manikantan.P — Prompt Engineering Intern, Future Interns
+**Author:** Manikantan.P — Prompt Engineering Intern, Future Interns 
 
 ---
 
